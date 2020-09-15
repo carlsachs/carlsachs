@@ -3,7 +3,7 @@
   width: "100%",
   justifyContent: "center"
 }}>
-  <img style={{display: "flex", justifyContent: "center"}}src="https://media.giphy.com/media/iEoeBE7wWUtAbJZb7w/giphy.gif" alt="carlsachs portfolio detroit water gif" />
+  <img style={{display: "flex", justifyContent: "center"}} src="https://media.giphy.com/media/iEoeBE7wWUtAbJZb7w/giphy.gif" alt="carlsachs portfolio detroit water gif" />
 </div>
 
 ## Detroit, Michigan based Full-Stack Developer
