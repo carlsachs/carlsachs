@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/iEoeBE7wWUtAbJZb7w/giphy.gif" alt="carlsachs portfolio detroit water gif" />
 </div>
 
-## Detroit, Michigan based Full-Stack Developer
+## Detroit, Michigan based Full-Stack Developer <img src="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/det.png" alt="pistons logo" />
 ### Looking for Opportunities both remote and on-site
 #### Front-End and Design focused development preferred
 - Take a look at my portfolio: https://www.carlsachs.com
