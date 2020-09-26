@@ -9,18 +9,18 @@
 ## Detroit, Michigan based Full-Stack Developer
 ### Looking for Opportunities both remote and on-site
 #### Front-End and Design focused development preferred
-- Take a look at my portfolio: https://www.carlsachs.com
-
-- 🔭 I’m currently working on a universal TailWindCSS boilerplate library
-- 💬 Ask me about my extracurricular Front-End activities while I was attending Lambda School
-- 📘 Currently learning more extensive TailWindCSS and React practices
-- ❓ Ask me about my life experiences before coding
 
 ### How to reach me:
 
 #### Email: sachscarl@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/carl-sachs/
 #### Twitter: https://twitter.com/CarltonSachs
+#### Portfolio: https://www.carlsachs.com
+
+- 🔭 I’m currently working on a universal TailWindCSS boilerplate library
+- 💬 Ask me about my extracurricular Front-End activities while I was attending Lambda School
+- 📘 Currently learning more extensive TailWindCSS and React practices
+- ❓ Ask me about my life experiences before coding
 
 
 <!--
