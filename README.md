@@ -7,7 +7,7 @@
 </div>
 
 ## Detroit, Michigan based Full-Stack Developer
-### Looking for Opportunities both remote and on-site
+### Looking for Opportunities both remote and on-site (Willing to stay here or RELOCATE)
 #### Front-End and Design focused development preferred
 
 ### How to reach me:
