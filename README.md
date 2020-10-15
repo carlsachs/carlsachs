@@ -17,7 +17,7 @@
 #### Twitter: https://twitter.com/CarltonSachs
 #### Portfolio: https://www.carlsachs.com
 
-- 🔭 I’m currently working on a universal TailWindCSS boilerplate library
+- 🔭 I’m currently working on a universal TailWindCSS boilerplate library, and a React-Native Mobile Trading UI to control and edit my Python algorithm trading bot.
 - 💬 Ask me about my extracurricular Front-End activities while I was attending Lambda School
 - 📘 Currently learning more extensive TailWindCSS and React practices
 - ❓ Ask me about my life experiences before coding
