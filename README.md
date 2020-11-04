@@ -8,7 +8,7 @@
 
 ## Detroit, Michigan based Full-Stack Developer
 ### Looking for Opportunities both remote and on-site (Willing to stay here or RELOCATE)
-#### Front-End and Design focused development preferred
+#### Currently brining businesses to life in freelance!
 
 ### How to reach me:
 
@@ -17,7 +17,7 @@
 #### Twitter: https://twitter.com/CarltonSachs
 #### Portfolio: https://www.carlsachs.com
 
-- 🔭 I’m currently working on a universal TailWindCSS boilerplate library, and a React-Native Mobile Trading UI to control and edit my Python algorithm trading bot.
+- 🔭 I’m currently working on a universal TailWindCSS boilerplate library, and a React-Native application to do with options trading.  Also working with clients via Cyphen Development.
 - 💬 Ask me about my extracurricular Front-End activities while I was attending Lambda School
 - 📘 Currently learning more extensive TailWindCSS and React practices
 - ❓ Ask me about my life experiences before coding
