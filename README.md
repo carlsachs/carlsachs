@@ -6,6 +6,10 @@
   <img style={{display: "flex", justifyContent: "center"}} src="https://media.giphy.com/media/iEoeBE7wWUtAbJZb7w/giphy.gif" alt="carlsachs portfolio detroit water gif" />
 </div>
 
+# Check out my Algorithm Trading Bot (275% Profit/year)
+### Partnered with Stacked and FTX exchange
+## https://app.stackedinvest.com/product/bot/dimethylbot
+
 ## Detroit, Michigan based Full-Stack Developer
 ### Looking for Opportunities both remote and on-site (Willing to stay here or RELOCATE)
 #### Currently bringing businesses to life in freelance!
