@@ -8,7 +8,8 @@
 
 # Check out my Algorithm Trading Bot
 ### Partnered with Stacked and FTX exchange
-## https://app.stackedinvest.com/product/bot/opubot
+## https://app.stackedinvest.com/product/bot/opubotada
+## https://app.stackedinvest.com/product/bot/opubotbtc
 
 ## Detroit, Michigan based Full-Stack Developer
 ### Looking for Opportunities both remote and on-site (Willing to stay here or RELOCATE)
