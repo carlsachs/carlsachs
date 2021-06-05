@@ -15,7 +15,7 @@
 
 ## Detroit, Michigan based Full-Stack Developer
 ### Looking for Opportunities both remote and on-site (Willing to stay here or RELOCATE)
-#### Currently bringing businesses to life in freelance!
+#### Currently bringing decentralized finance to the world at Liquality!
 
 ### How to reach me:
 
