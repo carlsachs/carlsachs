@@ -8,8 +8,6 @@
 
 # Check out my Algorithm Trading Bot Suite (ADA | BTC | LTC)
 
-### Twitter: https://twitter.com/OpulentBot
-
 ### Partnered with StackedInvest
 ## ADA: https://app.stackedinvest.com/strategies/207/bot/purchase
 
