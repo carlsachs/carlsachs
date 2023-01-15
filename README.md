@@ -6,7 +6,6 @@
   <img style={{display: "flex", justifyContent: "center"}} src="https://media.giphy.com/media/iEoeBE7wWUtAbJZb7w/giphy.gif" alt="carlsachs portfolio detroit water gif" />
 </div>
 
-### Web3 Developer
 ## Finterest - https://lijo6-syaaa-aaaah-abhmq-cai.raw.ic0.app/#/dashboard
 
 
