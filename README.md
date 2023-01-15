@@ -7,7 +7,6 @@
 </div>
 
 ### Web3 Developer
-## CheezDao - https://cheesedao.xyz
 ## Finterest - https://lijo6-syaaa-aaaah-abhmq-cai.raw.ic0.app/#/dashboard
 
 
